@@ -39,9 +39,28 @@
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,react,typescript,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript" />
+  <br>
+  <b>Frontend</b>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+  <br>
+  <b>Backend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase" />
+  <br>
+  <b>Database</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <br>
+  <b>Tools</b>
+</p>
 ---
 
 ## 🚀 Featured Projects
