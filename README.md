@@ -39,27 +39,23 @@
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,typescript" />
-  <br>
-  <b>Frontend</b>
+  <strong style="font-size: 20px;">Frontend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript&perline=4&theme=dark" width="240" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-  <br>
-  <b>Backend</b>
+  <strong style="font-size: 20px;">Backend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=3&theme=dark" width="180" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,supabase" />
-  <br>
-  <b>Database</b>
+  <strong style="font-size: 20px;">Database</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase&perline=2&theme=dark" width="120" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-  <br>
-  <b>Tools</b>
+  <strong style="font-size: 20px;">Tools</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4&theme=dark" width="240" />
 </p>
 
 ## 🚀 Featured Projects
