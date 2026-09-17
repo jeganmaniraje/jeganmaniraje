@@ -38,30 +38,29 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,react,typescript" />
   <br>
   <b>Frontend</b>
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp" />
   <br>
   <b>Backend</b>
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postgresql,supabase" />
   <br>
   <b>Database</b>
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   <br>
   <b>Tools</b>
 </p>
----
 
 ## 🚀 Featured Projects
 
