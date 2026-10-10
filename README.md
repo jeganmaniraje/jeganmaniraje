@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jegan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Final+Year+AI+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL;Aspiring+Software+Developer;Passionate+about+Software+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Final+Year+AI+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL;Aspiring+Software+Developer;Passionate+about+Software+Development" alt="Typing SVG " />
 
 ---
 
