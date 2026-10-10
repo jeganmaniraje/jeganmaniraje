@@ -85,15 +85,45 @@
 
 ---
 
-## 💼 Internship Experience
 
-### APPIN Technology — Coimbatore
-- Learned **HTML and Web Development fundamentals**.
-- Practiced basic web technologies and software development concepts.
+<!-- Internship Experience -->
+<h2 align="center">💼 Internship Experience</h2>
 
-### Green Apple — Mayiladuthurai
-- Learned **Data Science with Python**.
-- Practiced data analysis, data visualization, and basic Machine Learning models.
+<table>
+  <tr>
+    <td>
+      <h3>🌐 Web Development Intern</h3>
+      <b>APPIN Technology</b> | Coimbatore
+      <br/><br/>
+      <ul>
+        <li>Learned <b>HTML, CSS, and JavaScript</b> fundamentals.</li>
+        <li>Practiced building and structuring web pages using HTML and CSS.</li>
+        <li>Learned the basics of <b>Web Development</b> and software development practices.</li>
+        <li>Improved understanding of web technologies through hands-on practice.</li>
+      </ul>
+      <p>
+        <b>Skills:</b> HTML, CSS, JavaScript, Web Development
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🐍 Data Science Intern</h3>
+      <b>Green Apple</b> | Mayiladuthurai
+      <br/><br/>
+      <ul>
+        <li>Learned <b>Data Science using Python</b>.</li>
+        <li>Practiced data analysis and data visualization using Python.</li>
+        <li>Explored basic <b>Machine Learning</b> models using real-world datasets.</li>
+        <li>Developed an understanding of data processing and analytical techniques.</li>
+      </ul>
+      <p>
+        <b>Skills:</b> Python, Data Analysis, Data Visualization, Machine Learning
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
