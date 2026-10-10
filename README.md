@@ -1,135 +1,120 @@
-# 👋 Hi, I'm Jegan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Final+Year+AI+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL;Aspiring+Software+Developer;Passionate+about+Software+Development" alt="Typing SVG " />
+<h1 align="center">Hi 👋, I'm Jegan M</h1>
 
----
+<h3 align="center">
+  Aspiring Software Developer | Java Full Stack Development
+</h3>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Final+Year+AI+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL;Aspiring+Software+Developer;Passionate+about+Building+Applications" alt="Typing SVG" />
+</p>
 
-🎓 Final-year **Artificial Intelligence & Data Science** student at **V.S.B Engineering College**
-
-💻 Skilled in **Java, Python, SQL, and HTML**
-
-🌱 Passionate about **Software Development**
-
-🤝 Strong in **Problem Solving, Team Collaboration, and Communication**
-
-🎯 Seeking a **Software Developer** opportunity to apply my skills and gain hands-on industry experience.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jegan-m-9b944037a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jegan-MRJ" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://jeganportfolioorg.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/jeganmaniraje">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jegan-m-9b944037a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://jeganportfolioorg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
+- 🎓 Final-year **B.E. Artificial Intelligence and Data Science** student at **V.S.B Engineering College**.
+- 💻 Strong foundation in **Java** and good skills in **Python and SQL**.
+- 🚀 Interested in **Software Development** and **Java Full Stack Development**.
+- 🌐 Exploring **Frontend Development, Backend Development, and REST APIs**.
+- 🤖 Interested in building practical applications using **AI and modern technologies**.
+- 🤝 Enjoy **Problem Solving, Team Collaboration, and Continuous Learning**.
+- 🎯 Looking for an opportunity to start my career as a **Software Developer**.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 <p>
-  <strong style="font-size: 20px;">Frontend</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,typescript&perline=4&theme=dark" width="240" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" alt="Programming Languages"/>
 </p>
 
+### 🌐 Frontend Development
 <p>
-  <strong style="font-size: 20px;">Backend</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=3&theme=dark" width="180" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" alt="Frontend Technologies"/>
 </p>
 
+### ⚙️ Backend Development
 <p>
-  <strong style="font-size: 20px;">Database</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,supabase&perline=2&theme=dark" width="120" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
 </p>
 
+### 🗄️ Database
 <p>
-  <strong style="font-size: 20px;">Tools</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4&theme=dark" width="240" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Database Technologies"/>
 </p>
+
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development Tools"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🤖 SmartHire AI
-
 **AI-Based Resume Screening & Job Recommendation System**
 
-- Resume screening using NLP
-- Intelligent job recommendation
-- Candidate profile matching
-- Automated resume screening process
+- 📄 Resume screening using **Natural Language Processing (NLP)**.
+- 🎯 Matches candidate profiles with job descriptions.
+- 💡 Provides job recommendations and identifies matching skills.
+- ⚙️ Designed to support and simplify the resume screening process.
 
 ### 💰 FinTrack Pro
-
 **Smart Personal Finance Tracker**
 
-- Built using React, TypeScript & Supabase
-- Log, categorize and visualize expenses
-- Secure authentication
-- Cloud-based data storage
+- ⚛️ Built using **React, TypeScript, and Supabase**.
+- 💸 Allows users to record and categorize daily expenses.
+- 📊 Helps users visualize and track personal finances.
+- 🔐 Supports secure authentication and cloud-based data storage.
 
 ---
 
 ## 💼 Internship Experience
 
-### APPIN Technology, Coimbatore
+### APPIN Technology — Coimbatore
+- Learned **HTML and Web Development fundamentals**.
+- Practiced basic web technologies and software development concepts.
 
-- Completed internship training in HTML
-- Learned web technologies and software development fundamentals
-- Gained hands-on software development experience
-
-### Green Apple, Mayiladuthurai
-
-- Completed internship training in Data Science with Python
-- Applied Python for data analysis and visualization
-- Built basic Machine Learning models
-
----
-
-## 🛠 Tools & Technologies
-
-- Visual Studio Code
-- Git
-- GitHub
-- React
-- TypeScript
-- Supabase
+### Green Apple — Mayiladuthurai
+- Learned **Data Science with Python**.
+- Practiced data analysis, data visualization, and basic Machine Learning models.
 
 ---
 
 ## 🏆 Certifications
 
-| Certificate | Organization |
-|-------------|--------------|
-| 🥇 **Java Programming (Elite)** | **NPTEL** — **Score: 90%** |
-| 🤖 **Getting Started with Generative AI** | **IBM SkillsBuild** |
+| Certification | Organization |
+|---|---|
+| 🥇 **Programming in Java — Elite Gold, 90%** | NPTEL |
+| 🤖 **Generative AI Certificate** | IBM SkillsBuild |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jegan-MRJ&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jegan-MRJ&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeganmaniraje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeganmaniraje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jegan-MRJ&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=jeganmaniraje&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -137,31 +122,39 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jegan-MRJ&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeganmaniraje&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+## 📫 Connect With Me
+
+<p>
+  📧 <b>Email:</b>
+  <a href="mailto:jeganmrjmaniraje@gmail.com">jeganmrjmaniraje@gmail.com</a>
+</p>
+
+<p>
+  💼 <b>LinkedIn:</b>
+  <a href="https://www.linkedin.com/in/jegan-m-9b944037a/">Visit my LinkedIn</a>
+</p>
+
+<p>
+  🌐 <b>Portfolio:</b>
+  <a href="https://jeganportfolioorg.vercel.app/">Visit my Portfolio</a>
+</p>
+
+<p>
+  💻 <b>GitHub:</b>
+  <a href="https://github.com/jeganmaniraje">Explore my repositories</a>
+</p>
+
+---
+
+<h3 align="center">
+  💡 "Learn continuously, build meaningful solutions, and grow every day."
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jegan-MRJ&style=for-the-badge&color=0e75b6"/>
+  ⭐ Thanks for visiting my profile!
 </p>
-
----
-
-## 📫 Reach Me
-
-📧 **Email:** jeganmrjmaniraje@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/jegan-m-9b944037a/
-
-🌐 **Portfolio:** https://jeganportfolioorg.vercel.app
-
-📍 **Location:** Erode, Tamil Nadu, India
-
----
-
-## ⭐ Quote
-
-> **"Passionate about software development, problem-solving, and continuous learning."**
